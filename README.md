@@ -16,5 +16,5 @@ I constantly strive to stay up-to-date with the latest technologies and framewor
 
 ### Others
 - 🔭 I’m currently working on [Bookwave](https://github.com/Vladimir-Ciuculescu/BookWave)
-- 🌱 I’m currently learning : <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+- 🌱 I’m currently learning : <img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 - 📫 How to reach me **vladimir.ciuculescu@gmail.com**
