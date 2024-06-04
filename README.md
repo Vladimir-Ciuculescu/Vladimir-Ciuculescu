@@ -15,6 +15,6 @@ I constantly strive to stay up-to-date with the latest technologies and framewor
 * :computer: Project management : <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ### Others
-- 🔭 I’m currently working on [Bookwave](https://github.com/Vladimir-Ciuculescu/BookWave)
+- 🔭 I’m currently working on [YumHub](https://github.com/Vladimir-Ciuculescu/YumHub-frontend)
 - 🌱 I’m currently learning : <img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 - 📫 How to reach me **vladimir.ciuculescu@gmail.com**
