@@ -16,4 +16,5 @@ I constantly strive to stay up-to-date with the latest technologies and framewor
 
 ### Others
 - 🌱 I’m currently learning : ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+- 🍅 Check out my app : https://www.rezipehub.app
 - 📫 How to reach me **vladimir.ciuculescu@gmail.com**
