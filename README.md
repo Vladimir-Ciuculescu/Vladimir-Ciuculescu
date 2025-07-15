@@ -15,5 +15,9 @@ I constantly strive to stay up-to-date with the latest technologies and framewor
 * :computer: Project management : <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ### Others
-- 🍅 Check out my app : https://www.rezipehub.app
-- 📫 How to reach me **vladimir.ciuculescu@gmail.com**
+ Check out my apps :
+- 🍅 RezipeHub : https://www.rezipehub.app
+- 🛒 Grozery - Shopping List :  https://apps.apple.com/ro/app/grozery-shopping-list/id6747943999
+
+ ### 📫 Reach me
+ - Email : vladimir.ciuculescu@gmail.com
