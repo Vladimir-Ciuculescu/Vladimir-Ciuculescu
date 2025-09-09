@@ -2,7 +2,7 @@
 ## About me ✍️
 
 Hello there 👋, I am Vladi(mir).
-I am a passionate front end and mobile developer with a keen interest in creating intuitive and responsive user interfaces. 
+I am a passionate mobile developer with a keen interest in creating intuitive and responsive user interfaces. 
 I constantly strive to stay up-to-date with the latest technologies and frameworks, trying to provide the best user experience.
 
 ### 🛠 Tech Stack
@@ -14,10 +14,14 @@ I constantly strive to stay up-to-date with the latest technologies and framewor
 *  ⚙️ VCS : <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 * :computer: Project management : <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-### Others
- Check out my apps :
-- 🍅 RezipeHub : https://www.rezipehub.app
-- 🛒 Grozery - Shopping List :  https://apps.apple.com/ro/app/grozery-shopping-list/id6747943999
+### Currently working on
+ - 🛒 Grozery - Shopping List :  https://apps.apple.com/ro/app/grozery-shopping-list/id6747943999
 
- ### 📫 Reach me
- - Email : vladimir.ciuculescu@gmail.com
+### My other apps
+- 🍅 RezipeHub : https://www.rezipehub.app
+
+
+
+ ### 📫 How to reach me
+ - ✉️ Email : vladimir.ciuculescu@gmail.com
+ - 🖇️ LinkedIn : https://www.linkedin.com/in/ciuculescu-v-2017b41b9/
